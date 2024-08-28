@@ -2,7 +2,7 @@
 
 
 
-[![Linkedin: adrian](https://img.shields.io/badge/camilojpp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)](https://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)
+[![Linkedin: adrian](https://img.shields.io/badge/adrianP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)](https://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)
 ### 👀📬 ¿Te gustaría cononcerme?
 
 Elija un espacio si desea reunirse conmigo y conversar sobre cualquier cosa que le apasione 
