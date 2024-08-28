@@ -2,7 +2,7 @@
 
 
 
-[![Linkedin: adrian](https://calendly.com/avadon2118/30min?month=2024-08://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)](https://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)
+[![Linkedin: adrianP](https://calendly.com/avadon2118/30min?month=2024-08://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)](https://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)
 ### 👀📬 ¿Te gustaría cononcerme?
 
 Elija un espacio si desea reunirse conmigo y conversar sobre cualquier cosa que le apasione 
