@@ -1,16 +1,16 @@
 <h2>👽 Hola, soy Adrian Pernett 🤖</h2>
 
-![GitHub followers](https://img.shields.io/github/followers/CamiloPaternina0910?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcamilojpp09)
-[![Linkedin: Camilo](https://img.shields.io/badge/camilojpp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilo-paternina/)](https://www.linkedin.com/in/camilo-paternina/)
+
+
+[![Linkedin: Camilo](https://img.shields.io/badge/camilojpp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)](https://www.linkedin.com/in/adrian-yiuliano-pernett-caballero/)
 ### 👀📬 ¿Te gustaría cononcerme?
 
 Elija un espacio si desea reunirse conmigo y conversar sobre cualquier cosa que le apasione 
 
-<a href="https://calendly.com/paterninapcamilo/conoceme" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/Adrian-pernett/conoceme" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ```javascript
-const camilo = {
+const adrian = {
     pronouns: "He" | "Him",
     code: ["Java", "PHP", "Javascript"],
     askMeAbout: ["web dev", "tech", "app dev"],
@@ -28,7 +28,7 @@ const camilo = {
 ```
 
 <!--
-**CamiloPaternina0910/CamiloPaternina0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adrianpernettcaballero/adrianpernettcaballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
